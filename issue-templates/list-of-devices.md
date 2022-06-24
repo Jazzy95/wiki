@@ -21,3 +21,10 @@ Huawei
 OnePlus
   - [ ] OnePlus 9/11
   - [ ] OnePlus 7t/10
+
+**Browser Webapps**
+  - [ ] Chrome (Standard)
+  - [ ] Firefox
+  - [ ] Microsoft Edge
+  - [ ] Safari
+
